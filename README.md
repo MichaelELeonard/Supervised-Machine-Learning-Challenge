@@ -1,6 +1,6 @@
 # Week 20 Challenge - Credit-Risk-Classification
 
-<img src="ReadMe Pics/Pic 12.png" width="6489" height="391">
+<img src="ReadMe Pics/Pic 12.png" width="648" height="391">
 
 
 ## Original Data
