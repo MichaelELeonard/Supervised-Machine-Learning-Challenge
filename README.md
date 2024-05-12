@@ -25,7 +25,7 @@ The “loan_status” column was removed from the DateFrame and place it in its 
 
 ## Create a Logistic Regression Model with the Original Data
 
-### Fit a logistic regression model by using the training data (`X_train` and `y_train`).
+### Fit a logistic regression model by using the training data.
 
 The data in the two Dataframes were portioned into groups that were used to train and and test the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
 
