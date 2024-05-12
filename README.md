@@ -2,6 +2,8 @@
 
 <img src="ReadMe Pics/Pic 12.png" width="648" height="391">
 
+In this Challenge, we were challeged to utilize a superved machine learning model to evaluate loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was provided to build a model that can identify the creditworthiness of borrowers.  The data was read into a Pandas DataFrame for anaylsis.    
+
 
 ## Split the Data into Training and Testing Sets
 
@@ -43,8 +45,8 @@
 <img src="ReadMe Pics/Pic 6.png" width="452" height="181">
 <br>
 
-
-<br>
-
-<img src="ReadMe Pics/Pic 15.png" width="597" height="334">
+## Credit Risk Analysis Report
+### Overview of the analysis
+### The results
+### Summary
 
