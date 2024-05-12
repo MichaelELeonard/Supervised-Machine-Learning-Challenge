@@ -21,6 +21,8 @@
 ## Create a Logistic Regression Model with the Original Data
 
 ### Fit a logistic regression model by using the training data (`X_train` and `y_train`).
+
+<img src="ReadMe Pics/Pic 16.png" width="390" height="42">
 <br>
 <img src="ReadMe Pics/Pic 4.png" width="202" height="277">
 <br>
