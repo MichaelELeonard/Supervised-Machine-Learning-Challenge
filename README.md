@@ -27,13 +27,15 @@
 <br>
 
 ## Save the predictions on the testing data labels by using the testing feature data (`X_test`) and the fitted model.
-<img src="ReadMe Pics/Pic 5.png" width="317" height="74">
+
 <img src="ReadMe Pics/Pic 4.png" width="202" height="277">
 <br>
 
 
 
 ### Evaluate the model’s performance by doing the following
+
+<img src="ReadMe Pics/Pic 5.png" width="317" height="74">
 <img src="ReadMe Pics/Pic 6.png" width="452" height="181">
 <br>
 
