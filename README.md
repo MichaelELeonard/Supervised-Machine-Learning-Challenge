@@ -3,7 +3,7 @@
 <img src="ReadMe Pics/Pic 12.png" width="648" height="391">
 
 
-## Original Data
+## Split the Data into Training and Testing Sets
 
 
 <br>
