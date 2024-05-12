@@ -42,6 +42,16 @@ The data in the two Dataframes were portioned into groups that were used to trai
 
 ### Generate a confusion matrix.
 
+The confusion matrix results show that out of 19,384 individuals evaluated:
+<br>
+* 18,679 individuals were correctly identified as credit worthy  (True Negative)
+<br> 
+* 558 individuals were correctly identified as not credit worthy (True Positive)
+<br>
+* 67 individuals that were incorrectly identified as not credit worthy (False Negative)
+<br>
+* 80 individuals were incorrectly identified as credit worthy (False Positive)
+
 <img src="ReadMe Pics/Pic 5.png" width="317" height="74">
 
 ### Print the classification report.
