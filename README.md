@@ -42,7 +42,7 @@ The data in the two Dataframes were portioned into groups that were used to trai
 
 ### Generate a confusion matrix.
 
-The confusion matrix results show that out of 19,384 individuals evaluated:
+The confusion matrix results show that out of 19,384 individuals evaluate, 99% were correctly catgorized.  Thre beakdown includes:  
 <br>
 * 18,679 individuals were correctly identified as credit worthy  (True Negative)
 * 558 individuals were correctly identified as not credit worthy (True Positive)
