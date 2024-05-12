@@ -19,7 +19,7 @@
 <img src="ReadMe Pics/Pic 3.png" width="785" height="155">
 
 <br>
-<img src="ReadMe Pics/Pic 4.png" width="200" height="297">
+<img src="ReadMe Pics/Pic 4.png" width="202" height="277">
 <br>
 <img src="ReadMe Pics/Pic 5.png" width="350" height="100">
 <img src="ReadMe Pics/Pic 6.png" width="452" height="181">
