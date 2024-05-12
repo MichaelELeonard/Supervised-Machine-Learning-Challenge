@@ -12,7 +12,7 @@
 <br>
 <br>
 
-### Place the “loan_status” column into its own DateFram and place the other columns in theit own DataFrame.
+### Remove the “loan_status” column from the DateFrame and place it in its own own DataFrame.
 <img src="ReadMe Pics/Pic 3.png" width="785" height="155">
 <img src="ReadMe Pics/Pic 2.png" width="299" height="136">
 
