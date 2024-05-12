@@ -5,14 +5,14 @@
 
 ## Split the Data into Training and Testing Sets
 
-### Read the `lending_data.csv` data from the `Resources` folder into a Pandas DataFrame.
+### Read `lending_data.csv` data into a Pandas DataFrame.
 <br>
 <img src="ReadMe Pics/Pic 1.png" width="858" height="167">
 
 <br>
 <br>
 
-### Create the labels set (`y`)  from the “loan_status” column, and then create the features (`X`) DataFrame from the remaining columns.
+### Place the “loan_status” column into its own DateFram and place the other columns in theit own DataFrame.
 <img src="ReadMe Pics/Pic 3.png" width="785" height="155">
 <img src="ReadMe Pics/Pic 2.png" width="299" height="136">
 
