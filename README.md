@@ -38,7 +38,7 @@ The data in the two Dataframes were portioned into groups that were used to trai
 
 
 
-## Evaluate the model’s performance by doing the following
+## Evaluate the model’s performance
 
 ### Generate a confusion matrix.
 
