@@ -2,21 +2,21 @@
 
 <img src="ReadMe Pics/Pic 12.png" width="648" height="391">
 
-In this Challenge, we were challeged to utilize a superved machine learning model to evaluate loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was provided to build a model that can identify the creditworthiness of borrowers.   
+In this Challenge, we were challenged to utilize a supervised machine learning model to evaluate loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was provided to build a model that can identify the creditworthiness of borrowers.   
 
 
 ## Split the Data into Training and Testing Sets
 
 ### Read `lending_data.csv` data into a Pandas DataFrame.
 
- The data was read into a Pandas DataFrame for anaylsis.  
+ The data was read into a Pandas DataFrame for analysis.  
 <br>
 <img src="ReadMe Pics/Pic 1.png" width="858" height="167">
 
 <br>
 
 
-The “loan_status” column was removed from the DateFrame and place it in its own own DataFrame resulting in two stand alone DataFrames of data.  The two Dataframes can be viewed below. 
+The “loan_status” column was removed from the DateFrame and it was placed in its own DataFrame resulting in two standalone DataFrames of data.  The two Dataframes can be viewed below. 
 
 <br>
 <img src="ReadMe Pics/Pic 3.png" width="785" height="155">
@@ -27,7 +27,7 @@ The “loan_status” column was removed from the DateFrame and place it in its 
 
 ### Fit a logistic regression model by using the training data.
 
-The data in the two Dataframes were portioned into groups that were used to train and and test the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
+The data in the two Dataframes were portioned into groups that were used to train and test the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
 
 <img src="ReadMe Pics/Pic 16.png" width="390" height="42">
 
@@ -42,9 +42,9 @@ The data in the two Dataframes were portioned into groups that were used to trai
 
 ### Generate a confusion matrix.
 
-The confusion matrix results show that out of 19,384 individuals evaluate, 99% were correctly catgorized.  Thre beakdown includes:  
+The confusion matrix results show that out of 19,384 individuals evaluated, 99% were correctly categorized.  The breakdown includes:  
 <br>
-* 18,679 individuals were correctly identified as credit worthy  (True Negative)
+* 18,679 individuals were correctly identified as credit worthy (True Negative)
 * 558 individuals were correctly identified as not credit worthy (True Positive)
 * 80 individuals were incorrectly identified as credit worthy (False Positive)
 * 67 individuals that were incorrectly identified as not credit worthy (False Negative)
