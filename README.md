@@ -14,11 +14,11 @@ In this Challenge, we were challeged to utilize a superved machine learning mode
 <img src="ReadMe Pics/Pic 1.png" width="858" height="167">
 
 <br>
-<br>
+
 
 The “loan_status” column was removed from the DateFrame and place it in its own own DataFrame resulting in two stand alone DataFrames of data. 
 
-<br>
+
 <img src="ReadMe Pics/Pic 3.png" width="785" height="155">
 <img src="ReadMe Pics/Pic 2.png" width="299" height="136">
 
