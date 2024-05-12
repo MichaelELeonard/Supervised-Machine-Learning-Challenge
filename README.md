@@ -13,9 +13,9 @@
 <br>
 
 ### Create the labels set (`y`)  from the “loan_status” column, and then create the features (`X`) DataFrame from the remaining columns.
-<img src="ReadMe Pics/Pic 2.png" width="299" height="136">
+<img src="ReadMe Pics/Pic 3.png" width="299" height="136">
 
-<img src="ReadMe Pics/Pic 3.png" width="785" height="155">
+<img src="ReadMe Pics/Pic 2.png" width="785" height="155">
 
 
 ## Create a Logistic Regression Model with the Original Data
