@@ -10,7 +10,7 @@
 <img src="Readme Pics/Pic 1.png" width="1000" height="250">
 
 
-<img src="Readme Pics/Pic 2.png" width="800" height="400">
+<img src="ReadMe Pics/Pic 2.png" width="800" height="400">
 <br>
 
 
