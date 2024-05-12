@@ -9,13 +9,11 @@
 <br>
 <img src="ReadMe Pics/Pic 1.png" width="858" height="167">
 
+<br>
+<br>
 
 <img src="ReadMe Pics/Pic 2.png" width="299" height="136">
-<br>
 
-
-
-<br>
 <img src="ReadMe Pics/Pic 3.png" width="785" height="155">
 
 <br>
