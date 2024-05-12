@@ -32,9 +32,14 @@
 
 
 
-### Evaluate the model’s performance by doing the following
+## Evaluate the model’s performance by doing the following
+
+### Generate a confusion matrix.
 
 <img src="ReadMe Pics/Pic 5.png" width="317" height="74">
+
+### Print the classification report.
+
 <img src="ReadMe Pics/Pic 6.png" width="452" height="181">
 <br>
 
