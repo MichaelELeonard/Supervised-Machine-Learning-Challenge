@@ -16,7 +16,7 @@
 
 
 <br>
-<img src="ReadMe Pics/Pic 3.png" width="1000" height="200">
+<img src="ReadMe Pics/Pic 3.png" width="800" height="200">
 
 <br>
 <img src="ReadMe Pics/Pic 4.png" width="700" height="300">
