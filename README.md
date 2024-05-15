@@ -42,12 +42,6 @@ The data in the two Dataframes were portioned into groups that were used to trai
 
 ### Generate a confusion matrix.
 
-The confusion matrix results show that out of the 19,384 individuals evaluated, 99% were correctly categorized.  The breakdown includes:  
-<br>
-* 18,679 individuals were correctly identified as credit worthy (True Negative)
-* 558 individuals were correctly identified as not credit worthy (True Positive)
-* 80 individuals were incorrectly identified as credit worthy (False Positive)
-* 67 individuals that were incorrectly identified as not credit worthy (False Negative)
 
 <br>
 <img src="ReadMe Pics/Pic 5.png" width="317" height="74">
@@ -59,6 +53,19 @@ The confusion matrix results show that out of the 19,384 individuals evaluated, 
 
 ## Credit Risk Analysis Report
 ### Overview of the analysis
+
+
+
+
+
 ### The results
+
+The confusion matrix results show:
+<br>
+* 18,679 individuals were correctly identified as credit worthy (True Negative)
+* 558 individuals were correctly identified as not credit worthy (True Positive)
+* 80 individuals were incorrectly identified as credit worthy (False Positive)
+* 67 individuals that were incorrectly identified as not credit worthy (False Negative)
+  
 ### Summary
 
