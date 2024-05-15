@@ -67,7 +67,7 @@ The confusion matrix results show:
 * 67 individuals that were incorrectly identified as not credit worthy (False Negative)
 * 80 individuals were incorrectly identified as credit worthy (False Positive)
 
-<img src="ReadMe Pics/Pic 17.png" width="452" height="181">
+<img src="ReadMe Pics/Pic 17.png" width="421" height="287">
 
   
 ### Summary
