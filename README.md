@@ -2,7 +2,7 @@
 
 <img src="ReadMe Pics/Pic 12.png" width="648" height="391">
 
-In this Challenge, we were challenged to utilize a supervised machine learning model to evaluate loan risk. A dataset of historical lending activity from a peer-to-peer lending services company was provided to build a model that can identify the creditworthiness of borrowers.   
+In this Challenge, we were tasked to utilize a supervised machine learning model to evaluate loan risk. A dataset of lending activity from a peer-to-peer lending services company was provided to build a model that could identify the creditworthiness of borrowers.   
 
 
 ## Split the Data into Training and Testing Sets
@@ -54,11 +54,11 @@ The data in the two Dataframes were portioned into groups that were used to trai
 ## Credit Risk Analysis Report
 ### Overview of the analysis
 
+In this Challenge, we structured a machine learning model to evaluate loan risk of borrowers. A Logistic Regression Model was established using the original data and a confusion matrix and classification report was run to evaluate the models performance.  
 
 
 
-
-### The results
+### The Results
 
 The confusion matrix results show:
 <br>
@@ -67,7 +67,10 @@ The confusion matrix results show:
 * 67 individuals that were incorrectly identified as not credit worthy (False Negative)
 * 80 individuals were incorrectly identified as credit worthy (False Positive)
 
+The rows and columns were summed and compared to assess accuracy and precision.  Both agrregate totals were 19,384  so we can consider the model to be accurate and precise 
+
 <img src="ReadMe Pics/Pic 17.png" width="421" height="287">
+
 
   
 ### Summary
