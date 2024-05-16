@@ -38,15 +38,15 @@ Data from the two Dataframes were portioned into training and testing groups for
 
 
 
-## Evaluate the model’s performance
+## The results of the model’s performance can be seen below:
 
-### Generate a confusion matrix.
+### Confusion Matrix
 
 
 <br>
 <img src="ReadMe Pics/Pic 5.png" width="317" height="74">
 
-### Print the classification report.
+### Classification report
 
 <img src="ReadMe Pics/Pic 18.png" width="489" height="177">
 <br>
