@@ -48,7 +48,7 @@ The data in the two Dataframes were portioned into groups that were used to trai
 
 ### Print the classification report.
 
-<img src="ReadMe Pics/Pic 6.png" width="452" height="181">
+<img src="ReadMe Pics/Pic 18.png" width="489" height="177">
 <br>
 
 ## Credit Risk Analysis Report
