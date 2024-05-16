@@ -2,7 +2,7 @@
 
 <img src="ReadMe Pics/Pic 12.png" width="648" height="391">
 
-In this Challenge, we were tasked to utilize a supervised machine learning model to evaluate loan risk. A dataset of lending activity from a peer-to-peer lending services company was provided to build a model that could identify the creditworthiness of borrowers.   
+In this challenge, we were tasked to utilize a supervised machine learning model to evaluate loan risk. A dataset of lending activity from a peer-to-peer lending services company was provided to build a model that could identify the creditworthiness of borrowers.   
 
 
 ## Split the Data into Training and Testing Sets
