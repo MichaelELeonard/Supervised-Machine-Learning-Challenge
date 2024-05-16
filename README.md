@@ -71,10 +71,10 @@ A Logistic Regression Model was established using the original data and a confus
 
 The Confusion Matrix results show:
 <br>
-* 18,679 individuals were correctly identified as credit worthy (True Negative)
-* 558 individuals were correctly identified as not credit worthy (True Positive)
-* 67 individuals that were incorrectly identified as not credit worthy (False Negative)
-* 80 individuals were incorrectly identified as credit worthy (False Positive)
+* 18,679 individuals were CORRECTLY identified as credit worthy (True Negative)
+* 558 individuals were CORRECTLY identified as not credit worthy (True Positive)
+* 67 individuals that were INCORRECTLY identified as not credit worthy (False Negative)
+* 80 individuals were INCORRECTLY identified as credit worthy (False Positive)
 
 The rows and columns were summed and compared to assess accuracy and precision.  Both aggregate totals were 19,384 so we can consider the model to be accurate and precise.
 
