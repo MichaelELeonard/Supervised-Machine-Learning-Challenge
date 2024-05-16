@@ -55,13 +55,13 @@ The data in the two Dataframes were portioned into groups that were used to trai
 ### Overview of the analysis
 
 In this Challenge, we structured a machine learning model to evaluate loan risk of borrowers.  This determination was based off of a variety of factors including <br>
-•	Loan Size<br>
-•	Interest Rate<br>
-•	Borrower Income<br>
-•	Debt to Income Ratio<br>
-•	Number of Revolving Accounts<br>
-•	Past Negative Credit Marks<br>
-•	Total Debt<br>
+* Loan Size
+* Interest Rate<br>
+* Borrower Income<br>
+* Debt to Income Ratio<br>
+* Number of Revolving Accounts<br>
+* Past Negative Credit Marks<br>
+* Total Debt<br>
  <br>
 
 A Logistic Regression Model was established using the original data and a confusion matrix and classification report was run to evaluate the models performance.  
