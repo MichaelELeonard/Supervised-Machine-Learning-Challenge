@@ -62,7 +62,8 @@ In this Challenge, we structured a machine learning model to evaluate loan risk 
 * Number of Revolving Accounts
 * Past Negative Credit Marks
 * Total Debt
- A Logistic Regression Model was established using the original data and a confusion matrix and classification report was run to evaluate the model’s performance.  
+
+A Logistic Regression Model was established using the original data and a confusion matrix and classification report was run to evaluate the model’s performance.  
 
 
 
