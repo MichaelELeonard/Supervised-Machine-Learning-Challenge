@@ -42,8 +42,9 @@ Data from the two Dataframes were portioned into training and testing groups for
 
 ### Confusion Matrix
 
-<img src="ReadMe Pics/Pic 5.png" width="317" height="74">
+
 <br>
+<img src="ReadMe Pics/Pic 5.png" width="317" height="74">
 
 ### Classification report
 
@@ -88,4 +89,4 @@ The classification report results show:
 * The recall for high-risk loans was 89%  
 
 ### Summary
-Some trends can be observed when examining the results of the logistic regression model.  Overall, the model performed exceptionally well with a 99% accuracy rate. The model excelled at identifying healthy loans, scoring a 100% success rate in precision and recall.  The model did drop off when identifying high-risk loans, scoring 87% in precision and 89% in recall.  One potential reason for the drop off in high-risk loans results may be due data to the sample size provided to the model, as the high-risk loans only accounted for 3.2% of the total data examined.  Increasing this sample size may provide greater learning opportunities for the model, thus boosting its performance.  It may also be prudent to expose this data to other machine learning models to see if the change has any effects on performance results.           
+Some trends can be observed when examining the performance of the logistic regression model.  Overall, the model performed exceptionally well with a 99% accuracy rate. The model excelled at identifying healthy loans, scoring a 100% success rate in precision and recall.  The model did drop off when identifying high-risk loans, scoring 87% in precision and 89% in recall.  One potential reason for the drop off in high-risk loans results may be due data to the sample size provided to the model, as the high-risk loans only accounted for 3.2% of the total data examined.  Increasing this sample size may provide greater learning opportunities for the model, thus boosting its performance.  It may also be prudent to expose this data to other machine learning models to see if the change has any effects on performance results.           
