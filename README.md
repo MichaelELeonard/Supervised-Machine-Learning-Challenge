@@ -27,7 +27,7 @@ The “loan_status” column was removed from the DateFrame and it was placed in
 
 ### Fit a logistic regression model by using the training data.
 
-The data in the two Dataframes were portioned into groups that were used to train and test the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
+The data in the two Dataframes were portioned into training and testing groups for the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
 
 <img src="ReadMe Pics/Pic 16.png" width="390" height="42">
 
