@@ -69,7 +69,7 @@ The logistic regression model was established, the provided original data was us
 
 ### The Results
 
-The Confusion Matrix results show:
+The confusion matrix results show:
 <br>
 * 18,679 individuals were CORRECTLY identified as credit worthy (True Negative)
 * 558 individuals were CORRECTLY identified as not credit worthy (True Positive)
@@ -80,7 +80,7 @@ The rows and columns were summed and compared to assess accuracy and precision. 
 
 <img src="ReadMe Pics/Pic 17.png" width="421" height="287">
 
-The Classification Report results show:
+The classification report results show:
 <br>
 * The accuracy of the entire model was 99%
 * The precision for Healthy Loans was 100% 
