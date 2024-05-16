@@ -45,6 +45,7 @@ Data from the two Dataframes were portioned into training and testing groups for
 
 <br>
 <img src="ReadMe Pics/Pic 5.png" width="317" height="74">
+<br>
 
 ### Classification report
 
