@@ -83,10 +83,10 @@ The rows and columns were summed and compared to assess accuracy and precision. 
 The classification report results show:
 <br>
 * The accuracy of the entire model was 99%
-* The precision for Healthy Loans was 100% 
-* The recall for Healthy Loans was 100%
-* The precision for High-Risk Loans was 87% 
-* The recall for Healthy Loans was 89%  
+* The precision for healthy loans was 100% 
+* The recall for healthy loans was 100%
+* The precision for high-risk loans was 87% 
+* The recall for high-risk loans was 89%  
 
 ### Summary
 Some trends can be observed when examining the results of the Logistic Model.  Overall, the model performed exceptionally well with a 99% accuracy rate. The model excelled at identifying healthy loans scoring a 100% success rate in precision and recall.  The model did drop off when identifying high-risk loans scoring 87% in precision and 89% in recall.  One potential reason for the drop in high-risk loans scores may be due data to the sample size provided to the model, as the high-risk loans only accounted for 3.2% of the total data examined.  Increasing this sample size may provide greater learning opportunities for the model, thus boosting its performance.  It may also be prudent to expose this data to other machine learning models to see if the output performance increases.            
