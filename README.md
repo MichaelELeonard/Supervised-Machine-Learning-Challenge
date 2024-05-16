@@ -63,7 +63,7 @@ In this Challenge, we utilized a stuctured machine learning logistic regression 
 * Past Negative Credit Marks
 * Total Debt
 
-A Logistic Regression Model was established using the original data and a confusion matrix and classification report was run to evaluate the model’s performance.  
+The logistic regression model was established, the provided original data was used to train the model, and a confusion matrix and classification report was run to evaluate the model’s performance.  
 
 
 
