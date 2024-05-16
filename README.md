@@ -76,7 +76,8 @@ The Confusion Matrix results show:
 * 67 individuals that were incorrectly identified as not credit worthy (False Negative)
 * 80 individuals were incorrectly identified as credit worthy (False Positive)
 
-The rows and columns were summed and compared to assess accuracy and precision.  Both aggregate totals were 19,384 so we can consider the model to be accurate and precise 
+The rows and columns were summed and compared to assess accuracy and precision.  Both aggregate totals were 19,384 so we can consider the model to be accurate and precise.
+
 <img src="ReadMe Pics/Pic 17.png" width="421" height="287">
 
 The Classification Report results show:
