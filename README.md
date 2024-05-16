@@ -56,30 +56,29 @@ The data in the two Dataframes were portioned into groups that were used to trai
 
 In this Challenge, we structured a machine learning model to evaluate loan risk of borrowers.  This determination was based off of a variety of factors including <br>
 * Loan Size
-* Interest Rate<br>
-* Borrower Income<br>
-* Debt to Income Ratio<br>
-* Number of Revolving Accounts<br>
-* Past Negative Credit Marks<br>
-* Total Debt<br>
- <br>
-
-A Logistic Regression Model was established using the original data and a confusion matrix and classification report was run to evaluate the models performance.  
+* Interest Rate
+* Borrower Income
+* Debt to Income Ratio
+* Number of Revolving Accounts
+* Past Negative Credit Marks
+* Total Debt
+ A Logistic Regression Model was established using the original data and a confusion matrix and classification report was run to evaluate the model’s performance.  
 
 
 
 ### The Results
 
-The confusion matrix results show:
+The Confusion Matrix results show:
 <br>
 * 18,679 individuals were correctly identified as credit worthy (True Negative)
 * 558 individuals were correctly identified as not credit worthy (True Positive)
 * 67 individuals that were incorrectly identified as not credit worthy (False Negative)
 * 80 individuals were incorrectly identified as credit worthy (False Positive)
 
-The rows and columns were summed and compared to assess accuracy and precision.  Both agrregate totals were 19,384  so we can consider the model to be accurate and precise 
-
+The rows and columns were summed and compared to assess accuracy and precision.  Both aggregate totals were 19,384 so we can consider the model to be accurate and precise 
 <img src="ReadMe Pics/Pic 17.png" width="421" height="287">
+
+The Classification Report results show:
 
 
   
