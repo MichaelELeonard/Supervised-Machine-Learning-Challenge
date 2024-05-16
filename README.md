@@ -81,7 +81,12 @@ The rows and columns were summed and compared to assess accuracy and precision. 
 <img src="ReadMe Pics/Pic 17.png" width="421" height="287">
 
 The Classification Report results show:
-
+<br>
+* The accuracy of the intire model was 99%
+* The precision for Healthy Loans was 100% 
+* The recall for Healthy Loans was 100%
+* The precision for High Risk Loans was 87% 
+* The recall for Healthy Loans was 89%  
 
   
 ### Summary
