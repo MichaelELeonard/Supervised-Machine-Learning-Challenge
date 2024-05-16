@@ -54,7 +54,7 @@ Data from the two Dataframes were portioned into training and testing groups for
 ## Credit Risk Analysis Report
 ### Overview of the analysis
 
-In this Challenge, we utilized a stuctured machine learning logistic regression model to evaluate the loan risk of borrowers.  This determination was based off of a variety of factors.  Thses fators include: <br>
+In this Challenge, we utilized a stuctured machine learning logistic regression model to evaluate the loan risk of borrowers.  This determination was based off of a variety of factors.  These fators include: <br>
 * Loan Size
 * Interest Rate
 * Borrower Income
