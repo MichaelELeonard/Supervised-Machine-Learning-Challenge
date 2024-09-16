@@ -1,4 +1,4 @@
-<img src="ReadMe Pics/Pic 12.png" width="648" height="391">
+<img src="ReadMe Pics/Pic 12.png" width="777" height="469">
 
 # Supervised Machine Learning - Credit-Risk-Classification
 
