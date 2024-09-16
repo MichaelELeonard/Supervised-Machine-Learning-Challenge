@@ -11,8 +11,6 @@ In this challenge, we were tasked to utilize a supervised machine learning logis
 
 ## Split the Data into Training and Testing Sets
 
-### Read `lending_data.csv` data into a Pandas DataFrame.
-
  The data was read into a Pandas DataFrame for analysis.  
 <br>
 <img src="ReadMe Pics/Pic 1.png" width="858" height="167">
