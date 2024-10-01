@@ -1,4 +1,4 @@
-<img src="ReadMe Pics/Pic 12.png" width="777" height="469">
+<img src="ReadMe Pics/Header.png" width="694" height="354">
 
 # Supervised Machine Learning - Credit-Risk-Classification
 
@@ -13,7 +13,7 @@ In this challenge, we were tasked to utilize a supervised machine learning logis
 
  The data was read into a Pandas DataFrame for analysis.  
 <br>
-<img src="ReadMe Pics/Pic 1.png" width="858" height="167">
+<img src="ReadMe Pics/Original Data.png" width="858" height="167">
 
 <br>
 
@@ -21,8 +21,8 @@ In this challenge, we were tasked to utilize a supervised machine learning logis
 The “loan_status” column was removed from the DateFrame and it was placed in its own DataFrame resulting in two standalone DataFrames of data.  The two Dataframes can be viewed below. 
 
 <br>
-<img src="ReadMe Pics/Pic 3.png" width="785" height="155">
-<img src="ReadMe Pics/Pic 2.png" width="299" height="136">
+<img src="ReadMe Pics/Data Split 1.png" width="785" height="155">
+<img src="ReadMe Pics/Data Split 2.png" width="299" height="136">
 
 
 ## Create a Logistic Regression Model with the Original Data
@@ -31,11 +31,11 @@ The “loan_status” column was removed from the DateFrame and it was placed in
 
 Data from the two Dataframes were portioned into training and testing groups for the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
 
-<img src="ReadMe Pics/Pic 16.png" width="390" height="42">
+<img src="ReadMe Pics/Logistic Regression.png" width="390" height="42">
 
 <br>
 
-<img src="ReadMe Pics/Pic 4.png" width="202" height="277">
+<img src="ReadMe Pics/Prediction.png" width="202" height="277">
 <br>
 
 
@@ -46,11 +46,11 @@ Data from the two Dataframes were portioned into training and testing groups for
 
 
 <br>
-<img src="ReadMe Pics/Pic 5.png" width="317" height="74">
+<img src="ReadMe Pics/Confusion Matrix.png" width="317" height="74">
 
 ### Classification report
 
-<img src="ReadMe Pics/Pic 18.png" width="489" height="177">
+<img src="ReadMe Pics/Classification Report.png" width="489" height="177">
 <br>
 
 ## Credit Risk Analysis Report
@@ -80,7 +80,7 @@ The confusion matrix results show:
 
 The rows and columns were summed and compared to assess accuracy and precision.  Both aggregate totals were 19,384 so we can consider the model to be accurate and precise.
 
-<img src="ReadMe Pics/Pic 17.png" width="421" height="287">
+<img src="ReadMe Pics/Confusion Matrix Analysis.png" width="421" height="287">
 
 The classification report results show:
 <br>
