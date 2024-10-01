@@ -1,6 +1,6 @@
 <img src="ReadMe Pics/Header.png" width="694" height="354">
 
-# Supervised Machine Learning - Credit-Risk-Classification
+# Supervised Machine Learning
 
 [Supervised Machine Learning Code Link]( https://github.com/MichaelELeonard/credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification_working.ipynb)
 
@@ -9,7 +9,7 @@
 In this challenge, we were tasked to utilize a supervised machine learning logistic regression model to evaluate loan risk. A dataset of lending activity from a peer-to-peer lending services company was provided to build a model that could identify the creditworthiness of borrowers.   
 
 
-## Split the Data into Training and Testing Sets
+## Data was Split into Training and Testing Sets
 
  The data was read into a Pandas DataFrame for analysis.  
 <img src="ReadMe Pics/Original Data.png" width="858" height="167">
@@ -20,11 +20,11 @@ The “loan_status” column was removed from the DateFrame and it was placed in
 <img src="ReadMe Pics/Data Split 2.png" width="299" height="136">
 
 
-## Create a Logistic Regression Model with the Original Data
+## Logistic Regression Model with the Original Data
 
-### Fit a logistic regression model by using the training data.
+### Logistic regression model fit to training data.
 
-Data from the two Dataframes were portioned into training and testing groups for the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
+Data from the two DataFrames were portioned into training and testing groups for the logistic regression model.  The data was the fit to the model and predictions were tabulated. The resulting data comparing predicted and actual results was read into a DataFrame for further examination.  
 
 <img src="ReadMe Pics/Logistic Regression.png" width="390" height="42">
 
@@ -33,7 +33,7 @@ Data from the two Dataframes were portioned into training and testing groups for
 <img src="ReadMe Pics/Prediction.png" width="202" height="277">
 
 
-## The results of the model’s performance can be seen below:
+## The results of the model’s performance:
 
 ### Confusion Matrix
 
