@@ -33,7 +33,7 @@ Data from the two DataFrames were portioned into training and testing groups for
 <img src="ReadMe Pics/Prediction.png" width="202" height="277">
 
 
-## The results of the model’s performance:
+## Results
 
 ### Confusion Matrix
 
