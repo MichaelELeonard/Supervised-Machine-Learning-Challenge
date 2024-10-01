@@ -14,7 +14,7 @@ In this challenge, we were tasked to utilize a supervised machine learning logis
  The data was read into a DataFrame for analysis.  
 <img src="ReadMe Pics/Original Data.png" width="858" height="167">
 
-The “loan_status” column was removed from the DateFrame and it was placed in its own DataFrame resulting in two standalone DataFrames of data.  The two Dataframes can be viewed below. 
+The “loan_status” column was removed from the DateFrame and it was placed in its own DataFrame.  The two Dataframes can be viewed below. 
 
 <img src="ReadMe Pics/Data Split 1.png" width="785" height="155">
 <img src="ReadMe Pics/Data Split 2.png" width="299" height="136">
