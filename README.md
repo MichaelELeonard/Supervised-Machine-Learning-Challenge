@@ -1,4 +1,4 @@
-<img src="ReadMe Pics/Header 2.png" width="761" height="318">
+<img src="ReadMe Pics/Header.png" width="731" height="308">
 
 # Supervised Machine Learning
 
