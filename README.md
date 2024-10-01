@@ -4,7 +4,7 @@
 
 [Supervised Machine Learning Code Link]( https://github.com/MichaelELeonard/credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification_working.ipynb)
 
-# Overview
+## Overview
 
 In this challenge, we were tasked to utilize a supervised machine learning logistic regression model to evaluate loan risk. A dataset of lending activity from a peer-to-peer lending services company was provided to build a model that could identify the creditworthiness of borrowers.   
 
