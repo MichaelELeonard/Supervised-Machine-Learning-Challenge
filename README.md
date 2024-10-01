@@ -20,7 +20,7 @@ The “loan_status” column was removed from the DateFrame and it was placed in
 <img src="ReadMe Pics/Data Split 2.png" width="299" height="136">
 
 
-## Logistic Regression Model with the Original Data
+## Logistic Regression Model
 
 ### Logistic regression model fit to training data.
 
