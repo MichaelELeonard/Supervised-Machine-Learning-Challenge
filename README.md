@@ -2,7 +2,7 @@
 
 # Supervised Machine Learning - Credit-Risk-Classification
 
-Supervised Machine Learning code - https://github.com/MichaelELeonard/credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification_working.ipynb
+[Supervised Machine Learning Code Link]( https://github.com/MichaelELeonard/credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification_working.ipynb)
 
 # Overview
 
