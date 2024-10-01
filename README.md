@@ -12,15 +12,10 @@ In this challenge, we were tasked to utilize a supervised machine learning logis
 ## Split the Data into Training and Testing Sets
 
  The data was read into a Pandas DataFrame for analysis.  
-<br>
 <img src="ReadMe Pics/Original Data.png" width="858" height="167">
-
-<br>
-
 
 The “loan_status” column was removed from the DateFrame and it was placed in its own DataFrame resulting in two standalone DataFrames of data.  The two Dataframes can be viewed below. 
 
-<br>
 <img src="ReadMe Pics/Data Split 1.png" width="785" height="155">
 <img src="ReadMe Pics/Data Split 2.png" width="299" height="136">
 
@@ -36,8 +31,6 @@ Data from the two Dataframes were portioned into training and testing groups for
 <br>
 
 <img src="ReadMe Pics/Prediction.png" width="202" height="277">
-<br>
-
 
 
 ## The results of the model’s performance can be seen below:
@@ -45,13 +38,11 @@ Data from the two Dataframes were portioned into training and testing groups for
 ### Confusion Matrix
 
 
-<br>
 <img src="ReadMe Pics/Confusion Matrix.png" width="317" height="74">
 
 ### Classification report
 
 <img src="ReadMe Pics/Classification Report.png" width="489" height="177">
-<br>
 
 ## Credit Risk Analysis Report
 ### Overview of the analysis
@@ -72,7 +63,6 @@ The logistic regression model was established, the provided original data was us
 ### The Results
 
 The confusion matrix results show:
-<br>
 * 18,679 individuals were CORRECTLY identified as credit worthy (True Negative)
 * 558 individuals were CORRECTLY identified as not credit worthy (True Positive)
 * 67 individuals that were INCORRECTLY identified as not credit worthy (False Negative)
@@ -83,7 +73,6 @@ The rows and columns were summed and compared to assess accuracy and precision. 
 <img src="ReadMe Pics/Confusion Matrix Analysis.png" width="421" height="287">
 
 The classification report results show:
-<br>
 * The accuracy of the entire model was 99%
 * The precision for healthy loans was 100% 
 * The recall for healthy loans was 100%
