@@ -52,10 +52,6 @@ Data from the two DataFrames were portioned into training and testing groups for
 
 <img src="ReadMe Pics/Classification Report.png" width="489" height="177">
 
-## Credit Risk Analysis Report
-
-### The Results
-
 The confusion matrix results show:
 * 18,679 individuals were CORRECTLY identified as credit worthy (True Negative)
 * 558 individuals were CORRECTLY identified as not credit worthy (True Positive)
