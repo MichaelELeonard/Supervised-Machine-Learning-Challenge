@@ -11,7 +11,7 @@ In this challenge, we were tasked to utilize a supervised machine learning logis
 
 ## Data Split into Training and Testing Sets
 
- The data was read into a Pandas DataFrame for analysis.  
+ The data was read into a DataFrame for analysis.  
 <img src="ReadMe Pics/Original Data.png" width="858" height="167">
 
 The “loan_status” column was removed from the DateFrame and it was placed in its own DataFrame resulting in two standalone DataFrames of data.  The two Dataframes can be viewed below. 
