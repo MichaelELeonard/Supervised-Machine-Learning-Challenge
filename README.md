@@ -6,7 +6,15 @@
 
 ## Overview
 
-In this challenge, we were tasked to utilize a supervised machine learning logistic regression model to evaluate loan risk. A dataset of lending activity from a peer-to-peer lending services company was provided to build a model that could identify the creditworthiness of borrowers.   
+In this challenge, we were tasked to utilize a supervised machine learning logistic regression model to evaluate loan risk. A dataset of lending activity from a peer-to-peer lending services company was provided to build a model that could identify the creditworthiness of borrowers.  This determination was based off a variety of factors.  These factors include: 
+* Loan Size
+* Interest Rate
+* Borrower Income
+* Debt to Income Ratio
+* Number of Revolving Accounts
+* Past Negative Credit Marks
+* Total Debt
+
 
 
 ## Data Split into Training and Testing Sets
@@ -45,20 +53,6 @@ Data from the two DataFrames were portioned into training and testing groups for
 <img src="ReadMe Pics/Classification Report.png" width="489" height="177">
 
 ## Credit Risk Analysis Report
-### Overview of the analysis
-
-In this challenge, we utilized a structured machine learning logistic regression model to evaluate the loan risk of borrowers.  This determination was based off a variety of factors.  These factors include: <br>
-* Loan Size
-* Interest Rate
-* Borrower Income
-* Debt to Income Ratio
-* Number of Revolving Accounts
-* Past Negative Credit Marks
-* Total Debt
-
-The logistic regression model was established, the provided original data was used to train the model, and a confusion matrix and classification report was run to evaluate the model’s performance.  
-
-
 
 ### The Results
 
